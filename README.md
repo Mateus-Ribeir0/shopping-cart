@@ -1,14 +1,14 @@
-# 🛒 Carrinho de Compras 🛍️
+# 🛒 Shooping Cart 🛍️
 
-## Sobre
-Desenvolvido como parte do curso de lógica de programação, o projeto permite adicionar itens variados ao carrinho de compras. Além disso, exibe o valor total e a quantidade adquirida de cada item no carrinho.
+## About
+Developed as part of the programming logic course, the project allows adding various items to the shopping cart. Additionally, it displays the total value and quantity acquired of each item in the cart.
 
-### Funcionalidades
-- Adição de itens ao carrinho.
-- Atualização automática do valor total e quantidade de cada item.
-- Interface intuitiva para facilitar a experiência do usuário.
+### Functionalities
+- Adding items to the cart.
+- Automatic updating of the total value and quantity of each item.
+- Intuitive interface to enhance user experience.
 
-## Tecnologias
+## Technologies
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
